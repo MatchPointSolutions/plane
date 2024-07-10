@@ -1,3 +1,4 @@
 -r base.txt
 
 gunicorn==21.2.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
