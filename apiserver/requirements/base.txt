@@ -11,7 +11,7 @@ faker==18.11.2
 django-filter==23.2
 jsonmodels==2.6.0
 djangorestframework-simplejwt==5.3.0
-sentry-sdk==1.30.0
+sentry-sdk==2.8.0
 django-storages==1.14
 django-crum==0.7.9
 google-auth==2.22.0
