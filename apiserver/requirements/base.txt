@@ -6,7 +6,7 @@ djangorestframework==3.14.0
 redis==4.6.0
 django-cors-headers==4.2.0
 whitenoise==6.5.0
-django-allauth==0.55.2
+django-allauth==0.63.6
 faker==18.11.2
 django-filter==23.2
 jsonmodels==2.6.0
